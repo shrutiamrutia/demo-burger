@@ -8,7 +8,7 @@ import Checkout from './containers/Checkout/Checkout';
 import Orders from './containers/Orders/Orders';
 
 const App = () => {
-  console.log("testing..........1111111")
+  console.log("testing..........11")
   return (
     <div>
       <Layout>
